@@ -17,7 +17,7 @@ Para executar este jogo, você precisa ter o **Python 3** instalado em sua máqu
 
 1.  **Clone o repositório** (ou apenas baixe o arquivo `.py`):
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+    git clone https://github.com/EnioJr18/EnioJr18-Pedra-papel-tesoura-no-Python.git
     cd [NOME_DA_PASTA_DO_PROJETO]
     ```
 
